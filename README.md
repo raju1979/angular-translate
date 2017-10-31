@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## What this does
 
-This is a very simple project just to show the demo of ngx-trasnlate module.
+This is a very simple project just to show the demo of *ngx-translate* module.
 
 ## How to use it
 
